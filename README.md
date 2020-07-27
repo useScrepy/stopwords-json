@@ -6,6 +6,8 @@ Stopwords for various languages in JSON format. Per [Wikipedia](http://en.wikipe
 
 You can use all stopwords with [stopwords-all.json](stopwords-all.json) (keyed by language ISO 639-1 code), or see the below table for individual language stopword files.
 
+[Go to Screpy](https://screpy.com)
+
 ## Languages
 There are a total of 50 supported languages:
 
